@@ -49,7 +49,7 @@ For those looking to learn more about Quantitative Finance in general, and imple
 - __Paul Wilmott on Quantitative Finance__, _by Paul Wilmott_.
 - __Python for Finance__, _by Yves Hilpisch_.
 - __Derivatives Analytics with Python__, _by Yves Hilpisch_.
-- __C++ for Finance Engineers__, _by Daniel J. Duffy_.
+- __C++ for Financial Engineers__, _by Daniel J. Duffy_.
 - __Numerical Recipes in C++__, _by William H. Press et al_.
 
 ---
