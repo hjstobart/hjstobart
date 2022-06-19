@@ -23,12 +23,13 @@ Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the
 |:-------------|
 | _Pricing and risk management for interest rate derivatives with crypto_ | 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages & Skills:</h3>
 <div align="left">
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
 </div>
 
 <h3 align="left">Stay Connected:</h3>
