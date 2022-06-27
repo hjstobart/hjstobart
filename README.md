@@ -16,7 +16,7 @@
 
 <h3 align="left">Summary:</h3>
 
-Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the __pricing of plain vanilla and exotic derivatives__ across various asset classes including _equities, fixed income & rates, hybrids, FX, and commodities_. In addition, I enjoy researching machine learning techniques and their applications to finance, and just about any financial data science projects.
+Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the __pricing of plain vanilla and exotic derivatives__ across various asset classes including _equities, fixed income & rates, hybrids, structured products, and FX_. In addition, I enjoy researching machine learning techniques and their applications to finance, and just about any financial data science projects.
 <br> <br>
 
 |      Current Research Project:   |
