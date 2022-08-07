@@ -32,6 +32,7 @@ Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the
   <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </div>
 
+<!--
 <h3 align="left">Operating Systems & Version Control:</h3>
 <div align="left">
   <a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
@@ -40,6 +41,7 @@ Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the
   <a><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 </div>
+-->
 
 <h3 align="left">Stay Connected:</h3>
 <div align="left">
