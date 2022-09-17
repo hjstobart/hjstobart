@@ -21,7 +21,7 @@ Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the
 
 |      Current Research Project:   |
 |:-------------|
-| _The pricing of crypto interest rate swaps_ | 
+| _TBC_ | 
 
 <h3 align="left">Languages & Skills:</h3>
 <div align="left">
@@ -64,6 +64,11 @@ For those looking to learn more about Quantitative Finance in general, and imple
 - __Derivatives Analytics with Python__, _by Yves Hilpisch_.
 - __C++ for Financial Engineers__, _by Daniel J. Duffy_.
 - __Numerical Recipes in C++__, _by William H. Press et al_.
+
+<h3 align="left"> 🔬 Past Research Projects:</h3>
+A selection of research projects I've worked on in the past:
+
+- __Pricing Interest Rate Swaps in Traditional and Decentralised Finance__ (UCL Master's Thesis).
 
 ---
 
