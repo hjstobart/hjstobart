@@ -1,6 +1,6 @@
 <h1 align="center">Harry Stobart</h1>
 
-<h4 align="center">  &nbsp; &nbsp; Mathematics &nbsp; &nbsp; | &nbsp; &nbsp; Quantitative Finance &nbsp; &nbsp; | &nbsp; &nbsp; Derivatives Pricing &nbsp; &nbsp; | &nbsp; &nbsp; Risk Management &nbsp; &nbsp; </h4>
+<h4 align="center"> &nbsp; &nbsp; Quantitative Finance &nbsp; &nbsp; | &nbsp; &nbsp; Quantitative Development  &nbsp; &nbsp; | &nbsp; &nbsp; Derivatives Pricing &nbsp; &nbsp; | &nbsp; &nbsp; Risk Management &nbsp; &nbsp; </h4>
 <br>
 
 <table align="center" border=3>
@@ -16,12 +16,14 @@
 
 <h3 align="left">Summary:</h3>
 
-Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the __pricing of plain vanilla and exotic derivatives__ across various asset classes including _equities, rates, hybrids, structured products, and FX_. In addition, I enjoy researching machine learning techniques and their applications to finance, and just about any financial data science projects.
-<br> <br>
+Hello! I'm Harry, a Quantitative Developer in London. My primary interests include building high performance models for pricing plain vanilla and exotic derivatives across Rates, FX, and Credit. More recently, I've started researching machine learning techniques and their applications to finance.
+<br>
 
+<!--
 |      Current Research Project:   |
 |:-------------|
-| _TBC_ | 
+| _TBC_ |
+--> 
 
 <h3 align="left">Languages & Skills:</h3>
 <div align="left">
@@ -47,8 +49,8 @@ Hello! I'm Harry, a Quantitative Analyst in London. My primary interests are the
 <div align="left">
 <a href="https://www.linkedin.com/in/harry-stobart/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/hjstobart"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://medium.com/@henrylacroix"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</div>
+<!--* <a href="https://medium.com/@henrylacroix"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</div> -->
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
