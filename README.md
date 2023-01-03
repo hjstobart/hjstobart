@@ -27,30 +27,26 @@ Hello! I'm Harry, a Quantitative Developer in London. My primary interests inclu
 
 <h3 align="left">Languages & Skills:</h3>
 <div align="left">
-  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+</div>
+
+<h3 align="left">VCS & Other:</h3>
+<div align="left">
+  <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </div>
 
-<!--
-<h3 align="left">Operating Systems & Version Control:</h3>
-<div align="left">
-  <a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>  
-  <a><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-</div>
--->
 
 <h3 align="left">Stay Connected:</h3>
 <div align="left">
 <a href="https://www.linkedin.com/in/harry-stobart/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/hjstobart"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<!--* <a href="https://medium.com/@henrylacroix"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</div> -->
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
@@ -70,7 +66,7 @@ For those looking to learn more about Quantitative Finance in general, and imple
 <h3 align="left"> 🔬 Past Research Projects:</h3>
 A selection of research projects I've worked on in the past:
 
-- __Pricing Interest Rate Swaps in Traditional and Decentralised Finance__ (UCL Master's Thesis).
+- __<a href="https://github.com/hjstobart/msc-computational-finance/blob/main/summer-project/Pricing%20Interest%20Rate%20Swaps%20in%20Traditional%20and%20Decentralised%20Finance.pdf">Pricing Interest Rate Swaps in Traditional and Decentralised Finance__ (UCL Master's Thesis).
 
 ---
 
