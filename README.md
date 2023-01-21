@@ -1,6 +1,6 @@
 <h1 align="center">Harry Stobart</h1>
 
-<h4 align="center"> &nbsp; &nbsp; Quantitative Finance &nbsp; &nbsp; | &nbsp; &nbsp; Quantitative Development  &nbsp; &nbsp; | &nbsp; &nbsp; Derivatives Pricing &nbsp; &nbsp; | &nbsp; &nbsp; Risk Management &nbsp; &nbsp; </h4>
+<h4 align="center"> &nbsp; &nbsp; Quantitative Development &nbsp; &nbsp; | &nbsp; &nbsp; Quantitative Research  &nbsp; &nbsp; | &nbsp; &nbsp; Model Validation &nbsp; &nbsp; | &nbsp; &nbsp; Market Risk &nbsp; &nbsp; </h4>
 <br>
 
 <table align="center" border=3>
