@@ -3,9 +3,9 @@
 <h4 align="center"> &nbsp; &nbsp; Quantitative Development &nbsp; &nbsp; | &nbsp; &nbsp; Quantitative Research  &nbsp; &nbsp; | &nbsp; &nbsp; Model Validation &nbsp; &nbsp; | &nbsp; &nbsp; Market Risk &nbsp; &nbsp; </h4>
 <br>
 
-<table align="center" border=3>
+<table align="center" border=0.5>
   <td>
-  <img align="center" width="300" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/></td>
+  <img align="center" width="500" alt="GIF" src="https://external-preview.redd.it/tEjHzGkJ6fa2ZptQNtBm6jeruaspGmAD8nmzhd3ni3s.png?auto=webp&v=enabled&s=8ba196b71fb04569728e0248ed0d914701e760ef"/></td>
   </td>
 </table>
 
