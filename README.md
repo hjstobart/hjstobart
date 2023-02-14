@@ -16,7 +16,8 @@
 
 <h3 align="left">Summary:</h3>
 
-Hello! I'm Harry, a Quantitative Developer in London. My primary interests include building high performance models for pricing plain vanilla and exotic derivatives across Rates, FX, and Credit. More recently, I've started researching machine learning techniques and their applications to finance.
+Hello! I'm Harry, a Quant in London. <br> 
+I spend my time researching, building and validating models for pricing and risk management of vanilla and exotic derivatives across asset classes, but with a marginal preference towards rates products. 
 <br>
 
 <!--
